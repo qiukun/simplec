@@ -3,7 +3,7 @@
 
 #define MEMORYSIZE 100
 
-extern int memory[MEMORYSIZE];
+extern int memory[];
 
 /**
  * get_opcode:
